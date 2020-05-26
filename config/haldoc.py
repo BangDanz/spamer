@@ -88,7 +88,7 @@ class docter:
 
 while True:
 	try:
-		os.system('clear')
+		
 		print("""
 		 
 \033[1;94m[\033[1;91m+\033[1;94m] \033[1;92m MENU \033[1;94m[\033[1;91m+\033[1;94m]
