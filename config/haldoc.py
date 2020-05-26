@@ -80,7 +80,7 @@ class docter:
 				time.sleep(1)
 			print()
 		else:
-			print(f"\033[1;97m{\033[1;91mGagal\033[1;97m} {req.text}")
+			print("\033[1;97m{\033[1;91mGagal\033[1;97m} {req.text}")
 			for x in range(60):
 				print(end=f"\r>> Sleep {60-(x+1)}s << ",flush=True)
 				time.sleep(1)
